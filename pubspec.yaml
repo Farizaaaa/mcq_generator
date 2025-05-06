@@ -13,8 +13,13 @@ dependencies:
   flutter:
     sdk: flutter
   flutter_bloc: ^9.0.0
+  flutter_box_transform: ^0.4.6
   fluttertoast: ^8.2.10
   timer_count_down: ^2.2.2
+  scribble_etome_plugin_plus:
+    git:
+      ref: main
+      url: https://git@github.com/team-etome/scribble_plugin_etome_plus.git
 
 dev_dependencies:
   flutter_test:

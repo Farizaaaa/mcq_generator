@@ -134,6 +134,6 @@ class _DeepLinkHandlerState extends State<DeepLinkHandler> {
 
   @override
   Widget build(BuildContext context) {
-    return const Test();
+    return const MyHomePage();
   }
 }
